@@ -500,6 +500,21 @@ TextureImporter:
   - first:
       213: -2073229555889944322
     second: SSoS_ground_[grid]_186
+  - first:
+      213: 112970487691572014
+    second: SSoS_ground_[grid]_246
+  - first:
+      213: 1635549622698894335
+    second: SSoS_ground_[grid]_248
+  - first:
+      213: -84611113622630364
+    second: SSoS_ground_[grid]_249
+  - first:
+      213: -4602319758588159408
+    second: SSoS_ground_[grid]_250
+  - first:
+      213: 5253620477313781579
+    second: SSoS_ground_[grid]_251
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -1137,12 +1152,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_25
       rect:
         serializedVersion: 2
-        x: 1133
-        y: 1558
-        width: 75
-        height: 388
+        x: 1103
+        y: 1473
+        width: 34
+        height: 51
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1158,12 +1173,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_26
       rect:
         serializedVersion: 2
-        x: 1059
-        y: 1893
-        width: 53
-        height: 54
+        x: 667
+        y: 1527
+        width: 66
+        height: 26
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1179,12 +1194,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_27
       rect:
         serializedVersion: 2
-        x: 568
-        y: 1558
-        width: 53
-        height: 52
+        x: 840
+        y: 1532
+        width: 139
+        height: 37
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1200,12 +1215,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_28
       rect:
         serializedVersion: 2
-        x: 621
-        y: 1558
-        width: 53
-        height: 52
+        x: 981
+        y: 1524
+        width: 92
+        height: 33
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1221,12 +1236,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_29
       rect:
         serializedVersion: 2
-        x: 674
-        y: 1558
-        width: 53
-        height: 52
+        x: 1073
+        y: 1524
+        width: 92
+        height: 33
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1242,12 +1257,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_30
       rect:
         serializedVersion: 2
-        x: 727
-        y: 1558
-        width: 53
-        height: 52
+        x: 1165
+        y: 1524
+        width: 92
+        height: 33
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1263,12 +1278,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_31
       rect:
         serializedVersion: 2
-        x: 780
-        y: 1558
-        width: 53
-        height: 52
+        x: 1260
+        y: 1523
+        width: 37
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1284,12 +1299,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_32
       rect:
         serializedVersion: 2
-        x: 568
-        y: 1610
-        width: 53
-        height: 52
+        x: 1297
+        y: 1527
+        width: 66
+        height: 28
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1305,12 +1320,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_33
       rect:
         serializedVersion: 2
-        x: 568
-        y: 1662
-        width: 53
-        height: 52
+        x: 1363
+        y: 1523
+        width: 36
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1326,12 +1341,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_34
       rect:
         serializedVersion: 2
-        x: 568
-        y: 1714
-        width: 53
-        height: 52
+        x: 1399
+        y: 1523
+        width: 69
+        height: 34
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1347,12 +1362,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_35
       rect:
         serializedVersion: 2
-        x: 568
-        y: 1766
-        width: 53
-        height: 52
+        x: 1468
+        y: 1523
+        width: 72
+        height: 34
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1368,12 +1383,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_36
       rect:
         serializedVersion: 2
-        x: 568
-        y: 1818
-        width: 53
-        height: 52
+        x: 1540
+        y: 1523
+        width: 37
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1389,12 +1404,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_37
       rect:
         serializedVersion: 2
-        x: 568
-        y: 1870
-        width: 53
-        height: 52
+        x: 1643
+        y: 1523
+        width: 37
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1410,12 +1425,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_38
       rect:
         serializedVersion: 2
-        x: 621
-        y: 1870
-        width: 53
-        height: 52
+        x: 1577
+        y: 1528
+        width: 66
+        height: 27
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1431,12 +1446,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_39
       rect:
         serializedVersion: 2
-        x: 621
-        y: 1818
-        width: 53
-        height: 52
+        x: 1680
+        y: 1523
+        width: 74
+        height: 34
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1452,12 +1467,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_40
       rect:
         serializedVersion: 2
-        x: 621
-        y: 1766
-        width: 53
-        height: 52
+        x: 1754
+        y: 1523
+        width: 68
+        height: 34
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1473,12 +1488,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_41
       rect:
         serializedVersion: 2
-        x: 621
-        y: 1714
-        width: 53
-        height: 52
+        x: 1822
+        y: 1523
+        width: 2
+        height: 34
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1494,12 +1509,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_42
       rect:
         serializedVersion: 2
-        x: 621
-        y: 1662
-        width: 53
-        height: 52
+        x: 1824
+        y: 1525
+        width: 2
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1515,12 +1530,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_43
       rect:
         serializedVersion: 2
-        x: 621
-        y: 1610
-        width: 53
-        height: 52
+        x: 1826
+        y: 1529
+        width: 2
+        height: 28
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1536,12 +1551,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_44
       rect:
         serializedVersion: 2
-        x: 674
-        y: 1610
-        width: 53
-        height: 52
+        x: 1828
+        y: 1532
+        width: 3
+        height: 25
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1557,12 +1572,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_45
       rect:
         serializedVersion: 2
-        x: 674
-        y: 1662
-        width: 53
-        height: 52
+        x: 1831
+        y: 1534
+        width: 2
+        height: 23
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1578,12 +1593,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_46
       rect:
         serializedVersion: 2
-        x: 674
-        y: 1714
-        width: 53
-        height: 52
+        x: 1833
+        y: 1536
+        width: 2
+        height: 21
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1599,12 +1614,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_47
       rect:
         serializedVersion: 2
-        x: 674
-        y: 1766
-        width: 53
-        height: 52
+        x: 1835
+        y: 1538
+        width: 2
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1620,12 +1635,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_48
       rect:
         serializedVersion: 2
-        x: 674
-        y: 1818
-        width: 53
-        height: 52
+        x: 1803
+        y: 1557
+        width: 34
+        height: 54
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1641,12 +1656,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_49
       rect:
         serializedVersion: 2
-        x: 674
-        y: 1870
-        width: 53
-        height: 52
+        x: 1803
+        y: 1612
+        width: 34
+        height: 34
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1662,12 +1677,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_50
       rect:
         serializedVersion: 2
-        x: 727
-        y: 1870
-        width: 53
-        height: 52
+        x: 1805
+        y: 1646
+        width: 28
+        height: 67
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1683,12 +1698,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_51
       rect:
         serializedVersion: 2
-        x: 727
-        y: 1818
-        width: 53
-        height: 52
+        x: 1803
+        y: 1713
+        width: 34
+        height: 35
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1704,12 +1719,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_52
       rect:
         serializedVersion: 2
-        x: 727
-        y: 1766
-        width: 53
-        height: 52
+        x: 1103
+        y: 1422
+        width: 34
+        height: 51
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1725,12 +1740,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_53
       rect:
         serializedVersion: 2
-        x: 727
-        y: 1714
-        width: 53
-        height: 52
+        x: 1103
+        y: 1371
+        width: 34
+        height: 51
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1746,12 +1761,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_54
       rect:
         serializedVersion: 2
-        x: 727
-        y: 1662
-        width: 53
-        height: 52
+        x: 1103
+        y: 1320
+        width: 34
+        height: 51
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1767,12 +1782,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_55
       rect:
         serializedVersion: 2
-        x: 727
-        y: 1610
-        width: 53
-        height: 52
+        x: 1103
+        y: 1269
+        width: 34
+        height: 51
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1788,12 +1803,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_56
       rect:
         serializedVersion: 2
-        x: 780
-        y: 1610
-        width: 53
-        height: 52
+        x: 1103
+        y: 1218
+        width: 34
+        height: 51
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1809,12 +1824,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_57
       rect:
         serializedVersion: 2
-        x: 780
-        y: 1662
-        width: 53
-        height: 52
+        x: 1103
+        y: 1167
+        width: 34
+        height: 51
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1830,12 +1845,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_58
       rect:
         serializedVersion: 2
-        x: 780
-        y: 1714
-        width: 53
-        height: 52
+        x: 1103
+        y: 1120
+        width: 34
+        height: 47
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1851,12 +1866,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_59
       rect:
         serializedVersion: 2
-        x: 780
-        y: 1766
-        width: 53
-        height: 52
+        x: 1137
+        y: 1120
+        width: 123
+        height: 17
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1872,12 +1887,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_60
       rect:
         serializedVersion: 2
-        x: 780
-        y: 1818
-        width: 53
-        height: 52
+        x: 1150
+        y: 1103
+        width: 110
+        height: 17
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1893,12 +1908,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_61
       rect:
         serializedVersion: 2
-        x: 780
-        y: 1870
-        width: 53
-        height: 52
+        x: 1128
+        y: 1079
+        width: 22
+        height: 41
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1914,12 +1929,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_62
       rect:
         serializedVersion: 2
-        x: 833
-        y: 1870
-        width: 53
-        height: 52
+        x: 1090
+        y: 1101
+        width: 19
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1935,12 +1950,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_63
       rect:
         serializedVersion: 2
-        x: 886
-        y: 1870
-        width: 53
-        height: 52
+        x: 1090
+        y: 983
+        width: 19
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1956,12 +1971,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_64
       rect:
         serializedVersion: 2
-        x: 939
-        y: 1870
-        width: 53
-        height: 52
+        x: 1128
+        y: 983
+        width: 22
+        height: 50
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1977,12 +1992,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_65
       rect:
         serializedVersion: 2
-        x: 992
-        y: 1871
-        width: 53
-        height: 52
+        x: 1109
+        y: 983
+        width: 19
+        height: 137
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1998,12 +2013,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_66
       rect:
         serializedVersion: 2
-        x: 1059
-        y: 1841
-        width: 53
-        height: 52
+        x: 1103
+        y: 931
+        width: 33
+        height: 51
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2019,12 +2034,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_67
       rect:
         serializedVersion: 2
-        x: 1059
-        y: 1789
-        width: 53
-        height: 52
+        x: 1103
+        y: 880
+        width: 33
+        height: 51
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2040,12 +2055,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_68
       rect:
         serializedVersion: 2
-        x: 1059
-        y: 1737
-        width: 53
-        height: 52
+        x: 1103
+        y: 829
+        width: 33
+        height: 51
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2061,12 +2076,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_69
       rect:
         serializedVersion: 2
-        x: 1059
-        y: 1685
-        width: 53
-        height: 52
+        x: 1103
+        y: 778
+        width: 33
+        height: 51
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2082,12 +2097,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_70
       rect:
         serializedVersion: 2
-        x: 1059
-        y: 1633
-        width: 53
-        height: 52
+        x: 1103
+        y: 727
+        width: 33
+        height: 51
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2103,12 +2118,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_71
       rect:
         serializedVersion: 2
-        x: 1059
-        y: 1581
-        width: 53
-        height: 52
+        x: 1103
+        y: 676
+        width: 33
+        height: 51
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2124,12 +2139,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_72
       rect:
         serializedVersion: 2
-        x: 1006
-        y: 1581
-        width: 53
-        height: 52
+        x: 1103
+        y: 625
+        width: 33
+        height: 51
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2145,12 +2160,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_73
       rect:
         serializedVersion: 2
-        x: 953
-        y: 1581
-        width: 53
-        height: 52
+        x: 1103
+        y: 577
+        width: 33
+        height: 48
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2166,12 +2181,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_74
       rect:
         serializedVersion: 2
-        x: 900
-        y: 1581
-        width: 53
-        height: 52
+        x: 1803
+        y: 1807
+        width: 34
+        height: 51
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2187,12 +2202,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_75
       rect:
         serializedVersion: 2
-        x: 847
-        y: 1581
-        width: 53
+        x: 1803
+        y: 1858
+        width: 34
         height: 52
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2208,12 +2223,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_76
       rect:
         serializedVersion: 2
-        x: 1006
-        y: 1633
-        width: 53
-        height: 52
+        x: 1803
+        y: 1748
+        width: 34
+        height: 59
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2229,12 +2244,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_77
       rect:
         serializedVersion: 2
-        x: 1006
-        y: 1685
-        width: 53
-        height: 52
+        x: 1803
+        y: 1910
+        width: 34
+        height: 49
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2250,12 +2265,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_78
       rect:
         serializedVersion: 2
-        x: 1006
-        y: 1737
-        width: 53
-        height: 52
+        x: 1803
+        y: 1959
+        width: 34
+        height: 38
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2271,12 +2286,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_79
       rect:
         serializedVersion: 2
-        x: 1006
-        y: 1789
-        width: 53
-        height: 52
+        x: 1803
+        y: 2063
+        width: 34
+        height: 37
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2292,12 +2307,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_80
       rect:
         serializedVersion: 2
-        x: 953
-        y: 1789
-        width: 53
-        height: 52
+        x: 1806
+        y: 1997
+        width: 31
+        height: 66
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2313,12 +2328,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_81
       rect:
         serializedVersion: 2
-        x: 900
-        y: 1789
-        width: 53
-        height: 52
+        x: 1803
+        y: 2100
+        width: 34
+        height: 59
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2334,12 +2349,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_82
       rect:
         serializedVersion: 2
-        x: 847
-        y: 1789
-        width: 53
-        height: 52
+        x: 1803
+        y: 2159
+        width: 34
+        height: 59
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2355,12 +2370,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_83
       rect:
         serializedVersion: 2
-        x: 847
-        y: 1737
-        width: 53
-        height: 52
+        x: 1803
+        y: 2218
+        width: 34
+        height: 59
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2376,12 +2391,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_84
       rect:
         serializedVersion: 2
-        x: 900
-        y: 1737
-        width: 53
-        height: 52
+        x: 1803
+        y: 2277
+        width: 34
+        height: 26
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2397,12 +2412,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_85
       rect:
         serializedVersion: 2
-        x: 953
-        y: 1737
-        width: 53
-        height: 52
+        x: 1772
+        y: 2303
+        width: 63
+        height: 2
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2418,12 +2433,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_86
       rect:
         serializedVersion: 2
-        x: 953
-        y: 1685
-        width: 53
-        height: 52
+        x: 1772
+        y: 2305
+        width: 61
+        height: 3
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2439,12 +2454,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_87
       rect:
         serializedVersion: 2
-        x: 900
-        y: 1685
-        width: 53
-        height: 52
+        x: 1772
+        y: 2308
+        width: 59
+        height: 2
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2460,12 +2475,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_88
       rect:
         serializedVersion: 2
-        x: 847
-        y: 1685
-        width: 53
-        height: 52
+        x: 1772
+        y: 2310
+        width: 56
+        height: 2
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2481,12 +2496,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_89
       rect:
         serializedVersion: 2
-        x: 847
-        y: 1633
-        width: 53
-        height: 52
+        x: 1772
+        y: 2312
+        width: 54
+        height: 2
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2502,12 +2517,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_90
       rect:
         serializedVersion: 2
-        x: 900
-        y: 1633
-        width: 53
-        height: 52
+        x: 1772
+        y: 2314
+        width: 52
+        height: 2
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2523,12 +2538,12 @@ TextureImporter:
       name: SSoS_ground_[grid]_91
       rect:
         serializedVersion: 2
-        x: 953
-        y: 1633
-        width: 53
-        height: 52
+        x: 1772
+        y: 2316
+        width: 50
+        height: 2
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3935,7 +3950,7 @@ TextureImporter:
         width: 35
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3956,7 +3971,7 @@ TextureImporter:
         width: 66
         height: 28
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3977,7 +3992,7 @@ TextureImporter:
         width: 37
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3998,7 +4013,7 @@ TextureImporter:
         width: 142
         height: 35
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4019,7 +4034,7 @@ TextureImporter:
         width: 35
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4040,7 +4055,7 @@ TextureImporter:
         width: 68
         height: 28
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4061,7 +4076,7 @@ TextureImporter:
         width: 33
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4082,7 +4097,7 @@ TextureImporter:
         width: 87
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4103,7 +4118,7 @@ TextureImporter:
         width: 69
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4124,7 +4139,7 @@ TextureImporter:
         width: 55
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4145,7 +4160,7 @@ TextureImporter:
         width: 35
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4166,7 +4181,7 @@ TextureImporter:
         width: 66
         height: 28
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4187,7 +4202,7 @@ TextureImporter:
         width: 35
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4208,7 +4223,7 @@ TextureImporter:
         width: 101
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4229,7 +4244,7 @@ TextureImporter:
         width: 113
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4250,7 +4265,7 @@ TextureImporter:
         width: 35
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4271,7 +4286,7 @@ TextureImporter:
         width: 66
         height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4292,7 +4307,7 @@ TextureImporter:
         width: 37
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4313,7 +4328,7 @@ TextureImporter:
         width: 73
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4329,10 +4344,10 @@ TextureImporter:
       name: SSoS_ground_[grid]_177
       rect:
         serializedVersion: 2
-        x: 577
-        y: 577
-        width: 55
-        height: 54
+        x: 1772
+        y: 2318
+        width: 48
+        height: 3
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4350,10 +4365,10 @@ TextureImporter:
       name: SSoS_ground_[grid]_178
       rect:
         serializedVersion: 2
-        x: 577
-        y: 631
-        width: 55
-        height: 54
+        x: 1774
+        y: 2302
+        width: 29
+        height: 1
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4371,10 +4386,10 @@ TextureImporter:
       name: SSoS_ground_[grid]_179
       rect:
         serializedVersion: 2
-        x: 577
-        y: 685
-        width: 55
-        height: 54
+        x: 1775
+        y: 2299
+        width: 28
+        height: 3
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4392,10 +4407,10 @@ TextureImporter:
       name: SSoS_ground_[grid]_180
       rect:
         serializedVersion: 2
-        x: 577
-        y: 739
-        width: 55
-        height: 54
+        x: 1777
+        y: 2297
+        width: 26
+        height: 2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4413,10 +4428,10 @@ TextureImporter:
       name: SSoS_ground_[grid]_181
       rect:
         serializedVersion: 2
-        x: 577
-        y: 793
-        width: 55
-        height: 54
+        x: 1779
+        y: 2295
+        width: 24
+        height: 2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4434,10 +4449,10 @@ TextureImporter:
       name: SSoS_ground_[grid]_182
       rect:
         serializedVersion: 2
-        x: 577
-        y: 847
-        width: 55
-        height: 54
+        x: 1783
+        y: 2293
+        width: 20
+        height: 2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4460,7 +4475,7 @@ TextureImporter:
         width: 62
         height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4481,7 +4496,7 @@ TextureImporter:
         width: 62
         height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4497,10 +4512,10 @@ TextureImporter:
       name: SSoS_ground_[grid]_186
       rect:
         serializedVersion: 2
-        x: 577
-        y: 1465
-        width: 57
-        height: 59
+        x: 1785
+        y: 2291
+        width: 18
+        height: 2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4510,6 +4525,1392 @@ TextureImporter:
       bones: []
       spriteID: ef8c65f04b86a33e0800000000000000
       internalID: -2073229555889944322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_183
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 543
+        width: 73
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69d9fb7415b4b5e0800000000000000
+      internalID: -1894690443632191125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_187
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 543
+        width: 73
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602fb87d32c340ed0800000000000000
+      internalID: -2448766172744912378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_188
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 543
+        width: 63
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bff451ce152ad30800000000000000
+      internalID: 4441202256952425280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_189
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 543
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27298106eff6c69d0800000000000000
+      internalID: -2779723731669839246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_190
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 543
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bbd04b0e75ea370800000000000000
+      internalID: 8335696582914456362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_191
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 543
+        width: 71
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e66f6f8601de4e40800000000000000
+      internalID: 5642677209248261858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_192
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 2289
+        width: 13
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cffd89be56f6730800000000000000
+      internalID: 3994523457057455180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_193
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2286
+        width: 11
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f577056cb68e2c870800000000000000
+      internalID: 8701772979619526495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_194
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 2321
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47c610f12d4d8900800000000000000
+      internalID: 688291126214838090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_195
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 2371
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a8a7345c022d010800000000000000
+      internalID: 1212067281328835131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_196
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 2421
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d5fb589614567b0800000000000000
+      internalID: -5231703470649680502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_197
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 2471
+        width: 61
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d4db8fadd227180800000000000000
+      internalID: -9119175876972557025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_198
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 2468
+        width: 24
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deeab8b0fcf538520800000000000000
+      internalID: 2703109544209002221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_199
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 2465
+        width: 22
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9895cd0261d19410800000000000000
+      internalID: 1482195971449657500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_200
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 2461
+        width: 19
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d647a13fdf1384ed0800000000000000
+      internalID: -2429637032191298451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_201
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 2459
+        width: 15
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4022b030080afe0800000000000000
+      internalID: -1179802351811033919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_202
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 2455
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cbab3c445af1a80800000000000000
+      internalID: -8493888657437311853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_203
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 2476
+        width: 58
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401f9363b284109b0800000000000000
+      internalID: -5115728351285612284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_204
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 2472
+        width: 64
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9836fcea1d52eb7c0800000000000000
+      internalID: -4053761032075648119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_205
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 2474
+        width: 62
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee720fbb992bfea60800000000000000
+      internalID: 7705573860807026670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_206
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 2478
+        width: 56
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0640dd2668f8aef0800000000000000
+      internalID: -96554274249488881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_207
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 2480
+        width: 56
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb077a666268a0d0800000000000000
+      internalID: -3411368525720777793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_208
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 2482
+        width: 54
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7563ed8c12a554c0800000000000000
+      internalID: -4299352025731996291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_209
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 2485
+        width: 52
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9aba0d6f43d026c0800000000000000
+      internalID: -4170100916859782502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_210
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 2487
+        width: 50
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72667dc9188a26790800000000000000
+      internalID: -7538277551629179353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_211
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 2489
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f247978763f5b7030800000000000000
+      internalID: 3493490623510049839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_212
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 2519
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01f3d31254591610800000000000000
+      internalID: 1592396654748889356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_213
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 2556
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6652c2f22b885c0800000000000000
+      internalID: -4212921535731243273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_214
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 2624
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca18d4e0d7023610800000000000000
+      internalID: 1599349411443907272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_215
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 2660
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573d5dc70b2003e70800000000000000
+      internalID: 9092770604692919157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_216
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 2704
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31aa4195d02e6e6d0800000000000000
+      internalID: -2961431157992543725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_217
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 2748
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d36b54e8bdec8b30800000000000000
+      internalID: 4291065923338200017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_218
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 2792
+        width: 87
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e79978e45379c120800000000000000
+      internalID: 2434603882085193699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_219
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 2802
+        width: 85
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c373a3cd6be2a950800000000000000
+      internalID: 6458983672268944321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_220
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 2804
+        width: 81
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0d8eed9381cb1a0800000000000000
+      internalID: -6792527501149548308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_221
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 2811
+        width: 78
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf955b348021d2d0800000000000000
+      internalID: -3255785303308918837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_222
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 2813
+        width: 74
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35565eef41be3ebd0800000000000000
+      internalID: -2601977684281694893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_223
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 2815
+        width: 72
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded185aa047a9fd90800000000000000
+      internalID: -7063430644376265235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_224
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 2783
+        width: 87
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef193803681b51aa0800000000000000
+      internalID: -6190846922853215746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_225
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 2783
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17ec245eb1f68a10800000000000000
+      internalID: 1911480891623663386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_226
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 2785
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177ba2da99a307fa0800000000000000
+      internalID: -5805075487970904207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_227
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 2783
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cfa7aa8144f5ca0800000000000000
+      internalID: -6026022903668343741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_228
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 2783
+        width: 73
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc4413da4a581830800000000000000
+      internalID: 4042079942980422904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_229
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 2783
+        width: 73
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bd278ac4b816b90800000000000000
+      internalID: -7250360763729913053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_230
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 2783
+        width: 73
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718f2e11d6aa75c40800000000000000
+      internalID: 5501052855284594711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_231
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 2783
+        width: 68
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b66712e61d79a680800000000000000
+      internalID: -8743319664327170379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_232
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 2783
+        width: 65
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5792fd673c86548a0800000000000000
+      internalID: -6321531313222375051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_233
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 2783
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6824672ad86ac6190800000000000000
+      internalID: -7967810513478991226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_234
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 2783
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86f76fa3e6f626f0800000000000000
+      internalID: -709608433503439222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_235
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 2783
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fc27ee88d56fa80800000000000000
+      internalID: -8433450409507238136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_236
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 2783
+        width: 68
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f1ac9631ec00850800000000000000
+      internalID: 6341294858112212763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_237
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 2783
+        width: 72
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3254969cfcde2afd0800000000000000
+      internalID: -2332040180331363037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_238
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 2783
+        width: 2
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7381147d33c29430800000000000000
+      internalID: 3788304905279734651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_239
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 2783
+        width: 2
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01da510db46386fc0800000000000000
+      internalID: -3501489011039032048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_240
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 2783
+        width: 2
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05f386d1506fe340800000000000000
+      internalID: 4895237224582608143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_241
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 2783
+        width: 2
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740a3d1274bb38ab0800000000000000
+      internalID: -5006952446521270201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_242
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 2783
+        width: 2
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6a1de5eeb08f190800000000000000
+      internalID: -7928574025564838225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_243
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 2783
+        width: 3
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f270482139a8ea0800000000000000
+      internalID: -5869717456590262377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_244
+      rect:
+        serializedVersion: 2
+        x: 2673
+        y: 2783
+        width: 2
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df398d84ce026860800000000000000
+      internalID: 7521590565013110745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_245
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 2783
+        width: 2
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903a9e7028a404650800000000000000
+      internalID: 6215049408110240521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_247
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 2688
+        width: 34
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e235e9faa6e4950800000000000000
+      internalID: 6435198220067090055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_246
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 2598
+        width: 34
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2375fc5f0a519100800000000000000
+      internalID: 112970487691572014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_248
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 2515
+        width: 34
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3ed7167b3a2b610800000000000000
+      internalID: 1635549622698894335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_249
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 2439
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4201974f3a663def0800000000000000
+      internalID: -84611113622630364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_250
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 2363
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a579e40964120c0800000000000000
+      internalID: -4602319758588159408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSoS_ground_[grid]_251
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 2239
+        width: 34
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f810f3dfb98e840800000000000000
+      internalID: 5253620477313781579
       vertices: []
       indices: 
       edges: []
