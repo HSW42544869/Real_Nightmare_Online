@@ -12,7 +12,9 @@ public class Player : MonoBehaviour
     [Header("體力")]
     public int tired = 5;
     [Header("移動速度")]
-    public float movespeed = 0.01f;
+    public float movespeed = 0.1f;
+    [Header("旋轉速度")]
+    public float spinspeed = 3;
 
     /// <summary>
     /// 槍枝
@@ -20,13 +22,16 @@ public class Player : MonoBehaviour
     [Header("槍枝取得")]
     public bool getgun = false;
     [Header("子彈")]
-    public int bullet = 10;
+    public int bullet = 50;
     [Header("彈夾")]
-    public int clip = 0;
+    public int clip = 10;
+    [Header("裝彈時間")]
+    public float relord = 2.5f;
+
+
 
     [Header("移動精靈")]
     public Transform target;
-
     private float reho = 0 ;
     private Joystick Movejoy;
     private Joystick Spinjoy;
@@ -48,7 +53,7 @@ public class Player : MonoBehaviour
     /// </summary>
     private void MOVE()
     {
-        Vector3 dir = Movejoy.Direction * movespeed * 0.5f; // 取得搖桿向量
+        Vector3 dir = Movejoy.Direction * movespeed * 0.05f; // 取得搖桿向量
         transform.position = transform.position + dir;  // 移動角色
     }
     /// <summary>
@@ -56,13 +61,27 @@ public class Player : MonoBehaviour
     /// </summary>
     private void ROTATE()
     {
-        
+
         float ho = Spinjoy.Horizontal;  // 取得水平位移
-        if (reho != ho)                 // 旋轉角色並記錄停止
+        
+        if (reho != ho)                 // 旋轉角色
         {
-            transform.Rotate(0, 0, ho * -1);
+            if(reho > 0 && ho < reho)          
+            {
+                transform.Rotate(0, 0, ho * spinspeed);     // 反向    
+            }
+            else if (reho < 0 && ho > reho)          
+            {
+                transform.Rotate(0, 0, ho * spinspeed);     // 反向
+            }
+            else
+            {
+                transform.Rotate(0, 0, ho * -spinspeed);    // 正向
+            }
             reho = ho;
         }
+        
+
     }
 
 }

@@ -389,9 +389,11 @@ MonoBehaviour:
   health: 5
   tired: 5
   movespeed: 0.1
+  spinspeed: 3
   getgun: 0
   bullet: 10
   clip: 0
+  relord: 2.5
   target: {fileID: 718179115}
 --- !u!1001 &1067601854
 PrefabInstance:
@@ -840,7 +842,7 @@ PrefabInstance:
     - target: {fileID: 8135886326569738823, guid: 56fae09712773584fb63896d473a98ee,
         type: 3}
       propertyPath: handleRange
-      value: 1
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 8135886326569738823, guid: 56fae09712773584fb63896d473a98ee,
         type: 3}
