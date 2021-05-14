@@ -12,7 +12,7 @@ public class FieldOfview : MonoBehaviour
         Mesh mesh = new Mesh();
         GetComponent<MeshFilter>().mesh = mesh;
 
-        float fov = 90f;
+        float fov = 50;
         Vector3 origin = Vector3.zero;
         int rayCount = 2;
         float angle = 0f;
@@ -26,9 +26,24 @@ public class FieldOfview : MonoBehaviour
 
         vertices[0] = origin;
 
+        int vertexIndex = 1;
+        int triangleIndex = 0;
         for (int i = 0; i < rayCount; i++)
         {
             Vector3 vertex = origin + UtilsClass.GetVectorFromAngle(angle) * viewDistance;
+            vertices[vertexIndex] = vertex;
+
+            if (i > 0)
+            {
+                triangles[triangleIndex + 0] = 0;
+                triangles[triangleIndex + 1] = triangleIndex - 1;
+                triangles[triangleIndex + 2] = triangleIndex;
+
+                triangleIndex += 3;
+            }
+            vertexIndex++;
+            angle -= angleIncrease;
+            
         }
 
         vertices[0] = Vector3.zero;
