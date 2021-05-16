@@ -6,43 +6,50 @@ using CodeMonkey.Utils;
 
 public class FieldOfview : MonoBehaviour
 {
+    private Mesh mesh;
     // Start is called before the first frame update
     void Start()
     {
         Mesh mesh = new Mesh();
         GetComponent<MeshFilter>().mesh = mesh;
+    }
+    private void Update()
+    {
 
-        float fov = 50;
+        float fov = 90f; //攻擊預設角度
         Vector3 origin = Vector3.zero;
-        int rayCount =50;
-        float angle = 0f;
-        float angleIncrease = fov / rayCount;
-        float viewDistance = 50f;
+        int rayCount = 50;   //弧線設50個
+        float angle = 0f;   //角度
+        float angleIncrease = fov / rayCount;   //間隔距離公式
+        float viewDistance = 50f;   //距離
 
 
-        Vector3[] vertices = new Vector3[rayCount + 1 + 1];
-        Vector2[] uv = new Vector2[vertices.Length];
+        Vector3[] vertices = new Vector3[rayCount + 1 + 1]; //向量頂點
+        Vector2[] uv = new Vector2[vertices.Length];    //射線區域
         int[] triangles = new int[rayCount * 3];
 
         vertices[0] = origin;
 
         int vertexIndex = 1;
         int triangleIndex = 0;
-        for (int i = 0; i < rayCount; i++)
+        for (int i = 0; i < rayCount; i++)  //設定預判區域所捕捉到的物件
         {
             Vector3 vertex;
-            RaycastHit2D raycastHit2D = Physics2D.Raycast(origin, UtilsClass.GetVectorFromAngle(angle), viewDistance);
-            if (raycastHit2D.collider == null)
+            RaycastHit2D raycastHit2D = Physics2D.Raycast(origin, UtilsClass.GetVectorFromAngle(angle), viewDistance);  //射線區域,回Utils程式庫抓取計算出徑度,查看距離
+            if (raycastHit2D.collider == null)  //如果區域內沒有任何物件    
             {
-               //No hit
-               vertex = origin + UtilsClass.GetVectorFromAngle(angle) * viewDistance;
+                //No hit
+                vertex = origin + UtilsClass.GetVectorFromAngle(angle) * viewDistance;   //執行射線
             }
             else
+            {
+                //如果有,則執行vertex
+            }
             {
                 //Hit object
                 vertex = raycastHit2D.point;
             }
-                vertices[vertexIndex] = vertex;
+            vertices[vertexIndex] = vertex;
 
             if (i > 0)
             {
@@ -54,7 +61,7 @@ public class FieldOfview : MonoBehaviour
             }
             vertexIndex++;
             angle -= angleIncrease;
-            
+
         }
 
         vertices[0] = Vector3.zero;
