@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Player : MonoBehaviour
 {
@@ -19,8 +20,8 @@ public class Player : MonoBehaviour
     /// <summary>
     /// 槍枝
     /// </summary>
-    [Header("槍枝取得")]
-    public bool getgun = false;
+    [Header("紅外線取得")]
+    public bool getred = false;
     [Header("子彈")]
     public int bullet = 50;
     [Header("彈夾")]
@@ -46,8 +47,10 @@ public class Player : MonoBehaviour
     {
         MOVE();
         ROTATE();
+        print(transform.position);
+      
     }
-
+    #region 角色操作
     /// <summary>
     /// 角色移動
     /// </summary>
@@ -82,6 +85,18 @@ public class Player : MonoBehaviour
         }
         
 
+    }
+    #endregion
+
+
+    public void Fire()
+    {
+        //射擊
+    }
+    private void OnDrawGizmos()
+    {
+        
+        //Gizmos.DrawRay(transform.position,);
     }
 
 }
